@@ -4,8 +4,8 @@ Aplicação de exemplo utilizando AdonisJS ministrado por Flávio Filipe [@flavi
 
 ## Instalação
 
-Copiar ```.env.example``` para ```.env```
-Copiar ```server/.env.example``` para ```.env```
+- Copiar ```.env.example``` para ```.env```
+- Copiar ```server/.env.example``` para ```.env```
 
 ## Rodando o projeto
 
